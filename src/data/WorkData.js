@@ -30,6 +30,15 @@ export const Work = [
   },
   {
     id: 3,
+    name: "Admin Dashboard",
+    description: "An admin dashboard with a hell lot of features",
+    tags: ["react", "tailwind", "synfusion", "netlify"],
+
+    demo: "https://admin-dashboard-aman.netlify.app/",
+    github: "https://github.com/amankaushik481/admin-dashboard",
+  },
+  {
+    id: 4,
     name: "Mood dApp",
     description:
       "A mood diary in which you can write your mood and get it back.",
@@ -39,7 +48,7 @@ export const Work = [
     github: "https://github.com/amankaushik481/mood-dApp",
   },
   {
-    id: 4,
+    id: 5,
     name: "Coffee 3D",
     description: "A cool looking landing page with great menu bar.",
     tags: ["HTML", "CSS", "js", "gasp"],
@@ -48,7 +57,7 @@ export const Work = [
     github: "https://github.com/amankaushik481/coffee3d",
   },
   {
-    id: 5,
+    id: 6,
     name: "NFT Collection",
     description:
       "Its an NFT collection for developers in Crypto. You can mint NFTs here. There are 20 NFTs, it would be better if you have added yourself in the whitelist dApp.",
@@ -58,7 +67,7 @@ export const Work = [
     github: "https://github.com/amankaushik481/nft-dapp",
   },
   {
-    id: 6,
+    id: 7,
     name: "Whitelist dApp",
     description:
       "Its an NFT collection for developers in Crypto. This is a whitelist dApp, where you can join the list to get NFT in presale.",
@@ -75,7 +84,7 @@ export const Work = [
     github: "https://github.com/amankaushik481/whitelist-dapp",
   },
   {
-    id: 7,
+    id: 8,
     name: "ICO dApp",
     description:
       "You can claim or mint Crypto Dev tokens here. It is a Initial Coin Offering dApp.",
@@ -92,7 +101,7 @@ export const Work = [
     github: "https://github.com/amankaushik481/ico",
   },
   {
-    id: 8,
+    id: 9,
     name: "DAO dApp",
     description:
       "This is a DAO in which you can create a proposal to mint an NFT or Vote for a proposal.",
@@ -109,7 +118,7 @@ export const Work = [
     github: "https://github.com/amankaushik481/dao",
   },
   {
-    id: 9,
+    id: 10,
     name: "DeFi Exchange",
     description: "This is a Defi Exchange, based on the version 1 of uniswap.",
     tags: [
