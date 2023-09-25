@@ -69,14 +69,8 @@ const AboutPage = () => {
         <Main>
           I'm a blockchain developer with a passion for building innovative and secure solutions. I'm excited about the potential of blockchain technology to revolutionize many industries, and I'm committed to helping make that happen.
           <br /> <br />
-          
-Sure, here is a cool "about me" for you as a blockchain developer:
 
-Blockchain Developer and Web3 Enthusiast
-
-I'm a blockchain developer with a passion for building innovative and secure solutions. I'm excited about the potential of blockchain and it uses.
-
-In my day job, I work on developing decentralized applications (DApps) and smart contracts on the Ethereum blockchain. I'm also interested in Open Source.
+In my day job, I work on developing decentralized applications (DApps) and smart contracts on the Ethereum blockchain. I'm also interested in Open Source. <br />
           I'm excited to be a part of the blockchain community, and I look forward to contributing to the future of this technology.
         </Main>
 
