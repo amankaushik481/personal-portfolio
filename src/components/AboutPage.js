@@ -67,15 +67,17 @@ const AboutPage = () => {
           <img src={astronaut} alt="spaceman" />
         </Spaceman>
         <Main>
-          I'm a blockchain developer located in India. I love reading self-help
-          books.
+          I'm a blockchain developer with a passion for building innovative and secure solutions. I'm excited about the potential of blockchain technology to revolutionize many industries, and I'm committed to helping make that happen.
           <br /> <br />
-          I've worked as a wordpress developer for six months where i created
-          10s of cool looking websites. Later, i started working at an institute
-          where i taught 100s of students C/C++ and web development.
-          <br /> <br />
-          After that i joined a school as a computer science teacher, and here i
-          am. Learning, sharing and building things around web3.
+          
+Sure, here is a cool "about me" for you as a blockchain developer:
+
+Blockchain Developer and Web3 Enthusiast
+
+I'm a blockchain developer with a passion for building innovative and secure solutions. I'm excited about the potential of blockchain and it uses.
+
+In my day job, I work on developing decentralized applications (DApps) and smart contracts on the Ethereum blockchain. I'm also interested in Open Source.
+          I'm excited to be a part of the blockchain community, and I look forward to contributing to the future of this technology.
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
