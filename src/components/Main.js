@@ -194,7 +194,7 @@ const Main = () => {
           target="_blank"
           to={{
             pathname:
-              "https://drive.google.com/file/d/1y3QU-YHM4UqMfRYlyLjIKf8bfU5dj32w/view",
+              "https://drive.google.com/file/d/1sRAVvlsE-_beKA8IMYoqxZB7dygs4IFV/view",
           }}
         >
           <motion.h2
